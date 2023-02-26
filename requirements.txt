@@ -1,3 +1,15 @@
 # formatter
 autopep8
 isort
+
+# DJANGO 
+django>=4.1, <4.2
+
+# uncomment next line if you want to use different utils
+
+# pillow # for image field
+# djangorestframework # for rest api
+# django-cors-headers # for cors
+# django-filter # for filtering
+
+
